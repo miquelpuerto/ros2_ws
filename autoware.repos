@@ -1,0 +1,17 @@
+# autoware.repos
+repositories:
+  autoware.universe:
+    type: git
+    url: https://gitlab.com/autowarefoundation/autoware.universe.git
+    version: main
+
+  autoware.common:
+    type: git
+    url: https://gitlab.com/autowarefoundation/autoware.common.git
+    version: main
+
+  autoware.launch:
+    type: git
+    url: https://gitlab.com/autowarefoundation/autoware.launch.git
+    version: main
+
