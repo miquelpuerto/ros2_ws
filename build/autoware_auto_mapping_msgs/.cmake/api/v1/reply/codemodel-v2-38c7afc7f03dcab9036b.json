@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-0730f5989d7c97633445.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "autoware_auto_mapping_msgs__py",
+					"jsonFile" : "directory-autoware_auto_mapping_msgs__py-89b5a4440456d64fc92f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/miquel/ros2_ws/build/autoware_auto_mapping_msgs/autoware_auto_mapping_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "autoware_auto_mapping_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_autoware_auto_mapping_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_autoware_auto_mapping_msgs_egg-ee72a71e71f91f2c9619.json",
+					"name" : "ament_cmake_python_build_autoware_auto_mapping_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_autoware_auto_mapping_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_autoware_auto_mapping_msgs-cbcf1b8de14388c2271b.json",
+					"name" : "ament_cmake_python_copy_autoware_auto_mapping_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs-c3e4c63fc693a7229fed.json",
+					"name" : "autoware_auto_mapping_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs__cpp-6c8c7748113b95afcb5b.json",
+					"name" : "autoware_auto_mapping_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "autoware_auto_mapping_msgs__py::@6a3893b1f7b471df59f9",
+					"jsonFile" : "target-autoware_auto_mapping_msgs__py-fec3be17d95b34fb4879.json",
+					"name" : "autoware_auto_mapping_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs__rosidl_generator_c-641acbacc56d726cbb01.json",
+					"name" : "autoware_auto_mapping_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs__rosidl_generator_py-f8153653fe4d31fd092d.json",
+					"name" : "autoware_auto_mapping_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs__rosidl_typesupport_c-c96229aa976cad57f312.json",
+					"name" : "autoware_auto_mapping_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs__rosidl_typesupport_c__pyext-e66e961bbdf5fb8e5067.json",
+					"name" : "autoware_auto_mapping_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs__rosidl_typesupport_cpp-ae7742a442d1648c4ee0.json",
+					"name" : "autoware_auto_mapping_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs__rosidl_typesupport_fastrtps_c-04b63b000ade6fc9684f.json",
+					"name" : "autoware_auto_mapping_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs__rosidl_typesupport_fastrtps_c__pyext-8c37cc007dbaebaab487.json",
+					"name" : "autoware_auto_mapping_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs__rosidl_typesupport_fastrtps_cpp-992c0d59340f98bfde97.json",
+					"name" : "autoware_auto_mapping_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs__rosidl_typesupport_introspection_c-4e5fc818bdf44cc7cfcd.json",
+					"name" : "autoware_auto_mapping_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs__rosidl_typesupport_introspection_c__pyext-19267e6cd4648303d4c4.json",
+					"name" : "autoware_auto_mapping_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs__rosidl_typesupport_introspection_cpp-02512763f738e3bfa336.json",
+					"name" : "autoware_auto_mapping_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_mapping_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_mapping_msgs_uninstall-45acaffdd7b7e7add8db.json",
+					"name" : "autoware_auto_mapping_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-96a83ddd3acfd01acb88.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/miquel/ros2_ws/build/autoware_auto_mapping_msgs",
+		"source" : "/home/miquel/ros2_ws/src/autoware_auto_msgs/autoware_auto_mapping_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

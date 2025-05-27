@@ -1,0 +1,3 @@
+[console_scripts]
+vi = vehicle_interface.node:main
+

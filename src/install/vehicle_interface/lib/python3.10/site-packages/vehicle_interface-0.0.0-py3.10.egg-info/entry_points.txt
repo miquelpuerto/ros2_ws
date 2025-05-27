@@ -1,0 +1,3 @@
+[console_scripts]
+vi = vi.node:main
+

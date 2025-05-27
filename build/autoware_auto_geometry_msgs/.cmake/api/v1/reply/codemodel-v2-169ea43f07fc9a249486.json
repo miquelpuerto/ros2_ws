@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-96a8f4b9d3db6825270f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "autoware_auto_geometry_msgs__py",
+					"jsonFile" : "directory-autoware_auto_geometry_msgs__py-73bb174406270ec8f4c0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/miquel/ros2_ws/build/autoware_auto_geometry_msgs/autoware_auto_geometry_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "autoware_auto_geometry_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_autoware_auto_geometry_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_autoware_auto_geometry_msgs_egg-5322b70de58d99a2deb5.json",
+					"name" : "ament_cmake_python_build_autoware_auto_geometry_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_autoware_auto_geometry_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_autoware_auto_geometry_msgs-427892008f46e1a60964.json",
+					"name" : "ament_cmake_python_copy_autoware_auto_geometry_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs-b02a11c5c18658c96c70.json",
+					"name" : "autoware_auto_geometry_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs__cpp-fc9fb68992e1a1afea0a.json",
+					"name" : "autoware_auto_geometry_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "autoware_auto_geometry_msgs__py::@aa0e3b27608d2c48ac22",
+					"jsonFile" : "target-autoware_auto_geometry_msgs__py-e6df3b6700d6f8787ca2.json",
+					"name" : "autoware_auto_geometry_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs__rosidl_generator_c-83fec8c53ebf8bc6eac4.json",
+					"name" : "autoware_auto_geometry_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs__rosidl_generator_py-5d1e9786baa8d2ed4dc8.json",
+					"name" : "autoware_auto_geometry_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs__rosidl_typesupport_c-60642c8183d3ac667174.json",
+					"name" : "autoware_auto_geometry_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs__rosidl_typesupport_c__pyext-7a26117d3a3d153e545e.json",
+					"name" : "autoware_auto_geometry_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs__rosidl_typesupport_cpp-76b584da61b853fc5b60.json",
+					"name" : "autoware_auto_geometry_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_c-e92242a7bcb603d0ec4b.json",
+					"name" : "autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_c__pyext-bcef02a841cea6eee74b.json",
+					"name" : "autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_cpp-f4685d5209e7d8e51a17.json",
+					"name" : "autoware_auto_geometry_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs__rosidl_typesupport_introspection_c-aa9af4e3190879442d84.json",
+					"name" : "autoware_auto_geometry_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs__rosidl_typesupport_introspection_c__pyext-125ca9d2cba240482008.json",
+					"name" : "autoware_auto_geometry_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs__rosidl_typesupport_introspection_cpp-d0c449dd7e6701035db2.json",
+					"name" : "autoware_auto_geometry_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoware_auto_geometry_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoware_auto_geometry_msgs_uninstall-094f6b525f7a952d6f0a.json",
+					"name" : "autoware_auto_geometry_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-675b7ea41709b9e58dc6.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/miquel/ros2_ws/build/autoware_auto_geometry_msgs",
+		"source" : "/home/miquel/ros2_ws/src/autoware_auto_msgs/autoware_auto_geometry_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

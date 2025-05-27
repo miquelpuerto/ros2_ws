@@ -1,0 +1,9 @@
+/home/miquel/ros2_ws/src/build/my_robot_controller/CMakeFiles/uninstall.dir
+/home/miquel/ros2_ws/src/build/my_robot_controller/CMakeFiles/my_robot_controller_uninstall.dir
+/home/miquel/ros2_ws/src/build/my_robot_controller/CMakeFiles/test.dir
+/home/miquel/ros2_ws/src/build/my_robot_controller/CMakeFiles/edit_cache.dir
+/home/miquel/ros2_ws/src/build/my_robot_controller/CMakeFiles/rebuild_cache.dir
+/home/miquel/ros2_ws/src/build/my_robot_controller/CMakeFiles/list_install_components.dir
+/home/miquel/ros2_ws/src/build/my_robot_controller/CMakeFiles/install.dir
+/home/miquel/ros2_ws/src/build/my_robot_controller/CMakeFiles/install/local.dir
+/home/miquel/ros2_ws/src/build/my_robot_controller/CMakeFiles/install/strip.dir

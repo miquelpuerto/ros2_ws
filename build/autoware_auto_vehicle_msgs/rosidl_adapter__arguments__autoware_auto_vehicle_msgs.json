@@ -1,0 +1,6 @@
+{
+  "package_name": "autoware_auto_vehicle_msgs",
+  "non_idl_tuples": [
+    "/home/miquel/ros2_ws/src/autoware_auto_msgs/autoware_auto_vehicle_msgs:srv/ControlModeCommand.srv"
+  ]
+}
