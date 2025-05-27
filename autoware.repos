@@ -1,17 +1,27 @@
 # autoware.repos
 repositories:
-  autoware.universe:
-    type: git
-    url: https://gitlab.com/autowarefoundation/autoware.universe.git
-    version: main
 
-  autoware.common:
-    type: git
-    url: https://gitlab.com/autowarefoundation/autoware.common.git
-    version: main
+ autoware:
+   type: git
+   url: https://github.com/mcodinab/autoware.tutorial_vehicle.git
+   version: main
 
-  autoware.launch:
-    type: git
-    url: https://gitlab.com/autowarefoundation/autoware.launch.git
-    version: main
+ sensor_kit/tutorial_vehicle_sensor_kit_launch:
+   type: git
+   url: https://github.com/mcodinab/tutorial_vehicle_sensor_kit_launch.git
+   version: main
 
+ vehicle/tutorial_vehicle_launch:
+   type: git
+   url: https://github.com/mcodinab/tutorial_vehicle_launch.git
+   version: main
+
+ param/tutorial_vehicle_individual_params:
+   type: git
+   url: https://github.com/mcodinab/tutorial_vehicle_individual_params.git
+   version: main
+
+ launcher/autoware_launch.tutorial_vehicle:
+   type: git
+   url: https://github.com/mcodinab/autoware_launch.tutorial_vehicle.git
+   version: main
